@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#This comment added from GitHub
-
 analysis_file="$HOME/analysisData.log"
 summary_file="$HOME/summary.log"
 
